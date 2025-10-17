@@ -1,0 +1,80 @@
+{
+  "version": "v7",
+  "data": [
+    {
+      "id": "IMG_0030",
+      "title": "IMG 0030",
+      "description": "",
+      "dateTaken": "2024-05-03T11:53:21.000Z",
+      "tags": [],
+      "originalUrl": "https://india-gallery.pages.dev/IMG_0030.jpeg",
+      "thumbnailUrl": "/thumbnails/IMG_0030.jpg",
+      "thumbHash": "c8280a1d84056888738888837a8887860474444047",
+      "width": 5606,
+      "height": 3737,
+      "aspectRatio": 1.5001337971635,
+      "s3Key": "IMG_0030.jpeg",
+      "lastModified": "2025-10-16T18:29:12.040Z",
+      "size": 8962100,
+      "exif": {
+        "DateTimeOriginal": "2024-05-03T20:53:21+09:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+09:00",
+        "OffsetTimeDigitized": "+09:00",
+        "ImageWidth": 5606,
+        "ImageHeight": 3737,
+        "tz": "UTC+9",
+        "tzSource": "OffsetTimeOriginal",
+        "Make": "SONY",
+        "Model": "ILCE-7M3",
+        "Software": "Adobe Lightroom 10.4.0 (iOS)",
+        "Copyright": "晚点晚安 / -4-2-7-",
+        "ExposureTime": "1/160",
+        "FNumber": 4,
+        "ExposureProgram": "Program AE",
+        "ISO": 2500,
+        "ShutterSpeedValue": "1/160",
+        "ApertureValue": 4,
+        "BrightnessValue": -0.00234375,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 4,
+        "LightSource": "Unknown",
+        "Flash": "Off, Did not fire",
+        "FocalLength": "70.0 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "70 mm",
+        "SceneCaptureType": "Standard",
+        "LensModel": "E 28-200mm F2.8-5.6 A071",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto",
+        "Aperture": 4,
+        "ScaleFactor35efl": 1,
+        "ShutterSpeed": "1/160",
+        "LightValue": 6.7
+      },
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 15,
+        "contrast": 45,
+        "shadowRatio": 0.83,
+        "highlightRatio": 0.05
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    }
+  ],
+  "cameras": [
+    {
+      "make": "SONY",
+      "model": "ILCE-7M3",
+      "displayName": "SONY ILCE-7M3"
+    }
+  ],
+  "lenses": [
+    {
+      "model": "E 28-200mm F2.8-5.6 A071",
+      "displayName": "E 28-200mm F2.8-5.6 A071"
+    }
+  ]
+}
